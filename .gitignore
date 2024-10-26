@@ -1,0 +1,30 @@
+# Python specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+ENV/
+venv.bak/
+
+# Jupyter Notebooks checkpoints (if you're using them)
+.ipynb_checkpoints/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Data files (e.g., datasets)
+*.csv
+
+# Logs and debugging files
+*.log
+
+# matplotlib figures (optional, if generating figures)
+.figures/
+
+# Virtual environment activation scripts (optional)
+bin/
